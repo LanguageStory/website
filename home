@@ -3,7 +3,7 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bo
 	margin:0;
 	padding:0;
 	border:0;
-	font-size:1000%;
+	font-size:100%;
 	font:inherit;
 	vertical-align:baseline
 }
@@ -31,7 +31,7 @@ table {
 body {
 	width:100%;
 	margin:0 auto;
-	color:#333;
+	color:#FFFFFF;
 	background:#f7f7f7;
 	font-family:open sans, pingfang sc, hiragino sans gb, PingHei, sans-serif, Helvetica Neue, work sans, microsoft yahei, SimSun;
 	-webkit-font-smoothing:antialiased;
